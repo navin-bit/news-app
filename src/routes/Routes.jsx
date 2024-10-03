@@ -8,7 +8,7 @@ import Health from "../components/Health";
 import ScienceList from "../components/ScienceList";
 import Science from "../components/Science";
 import SportsList from "../components/SportsList";
-import Sports from "../components/sports";
+import Sports from "../components/Sports";
 import TechnologyList from "../components/TechnologyList";
 import Technology from "../components/Technology";
 import GeneralList from "../components/GeneralList";
